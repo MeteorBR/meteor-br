@@ -4,6 +4,6 @@
 ##Como participar da Equipe?
 
 
-Basta abrir uma [issue](http://github.com/MeteorBR/issues/new) com a label members-membership no repositório genérico do grupo requisitando sua adição. 
+Basta abrir uma [issue](http://github.com/MeteorBR/meteor-br/issues/new) com a label members-membership no repositório genérico do grupo requisitando sua adição. 
 Após a adição, considere se tornar um membro público. 
 
