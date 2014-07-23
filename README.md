@@ -1,9 +1,9 @@
-How-to
-=======
-
-To join the Team, just open an Issue on this repo, with your name at the Title, an a resume about your development experience at the description.
+# Repositório Genérico da Comunidade brasileira de Meteor JS
 
 
-Para entrar na equipe, apenas abra uma Issue neste repositório com seu nome no Título, e um resumo sobre sua experiência com desenvolvimento na descrição.
+##Como participar da Equipe?
 
+
+Basta abrir uma [issue](http://github.com/MeteorBR/issues/new) com a label members-membership no repositório genérico do grupo requisitando sua adição. 
+Após a adição, considere se tornar um membro público. 
 
